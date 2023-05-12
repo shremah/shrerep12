@@ -1,0 +1,80 @@
+.form-container {
+    display: flex;
+    justify-content: center;
+
+
+padding: 20px;
+
+border-radius:5px;
+
+
+
+}
+
+
+
+.form-container label {
+
+    display: block;
+
+  
+
+}
+
+
+
+.form-container input[type="text"],
+
+.form-container input[type="email"],
+
+.form-container textarea {
+
+    width: 80%;
+    display:flex;
+    justify-content: center;
+
+    padding: 10px;
+
+    margin-bottom: 20px;
+
+   
+
+    border-radius: 5px;
+
+    box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.2);
+
+}
+
+
+
+.form-container button[type="submit"] {
+
+    background-color: #4CAF50;
+
+    color: white;
+
+    padding: 10px 20px;
+
+    border: none;
+
+    border-radius: 5px;
+
+    cursor: pointer;
+
+}
+
+
+
+.form-container button[type="submit"]:hover {
+
+    background-color: #3e8e41;
+
+}
+
+.h1 {
+
+    font-family: 'Courier New', Courier, monospace;
+
+
+
+}

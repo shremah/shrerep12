@@ -1,0 +1,72 @@
+.container {
+
+    max-width: 500px;
+    
+        margin: 0 auto;
+    
+        padding: 20px;
+       
+        background-color: rgb(100, 186, 74); 
+    }
+    
+    
+    
+    h1 {
+    
+        text-align: center;
+    
+    }
+    
+    
+    
+    p {
+    
+        text-align: center;
+    
+        margin-bottom: 40px;
+    
+    }
+    
+    
+    
+    .form-group {
+    
+        margin-bottom: 20px;
+    
+    }
+    
+    
+    
+    label {
+    
+        display: block;
+    
+        font-weight: bold;
+    
+    }
+    
+    
+    
+    input[type="text"],
+    
+    input[type="email"],
+    
+    textarea {
+    
+        width: 100%;
+    
+        padding: 10px;
+    
+        border: 1px solid #ccc;
+    
+        border-radius: 4px;
+    
+    }
+    
+    
+    
+    button[type="submit"] {
+    
+        margin-top: 20px;
+    
+    }

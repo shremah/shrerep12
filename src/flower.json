@@ -1,0 +1,268 @@
+
+{
+    "flower": [
+    
+    {
+    
+    "name": "BEECH BONSAI",
+    
+     "image": "https://cdn.mos.cms.futurecdn.net/scc4LSrbQwWBS86xcHV7cD-1024-80.jpg.webp"
+    
+        },
+    
+     {
+    
+   "name": "FICUS BONSAI",
+    
+    "image": "https://cdn.mos.cms.futurecdn.net/PGMTzStUbgi5jPC6U2SqRY-1024-80.jpg.webp"
+
+    
+    
+   
+        },
+    
+     {
+    
+  "name": "BIRCH BONSAI",
+    
+   "image": "https://cdn.mos.cms.futurecdn.net/EfuVPENiwyMuRwZXRHvZ47-1024-80.jpg.webp"
+    
+    
+  
+    },
+    {
+    
+        "name": "JUNIPER BONSAI",
+          
+         "image": "https://uncasing.shop/wp-content/uploads/2023/01/800560-03-2.jpg"
+          
+          
+        
+          },
+          {
+    
+            "name": "PINE BONSAI",
+              
+             "image": "https://cdn.mos.cms.futurecdn.net/LLwta8Z7LjKpKTF9E8iQQZ-1024-80.jpg.webp"
+              
+              }
+          
+    
+    
+    
+],
+"OrganicManure": [
+    
+    {
+    
+    "name": "NEEM MANURE",
+    
+     "image": "https://m.media-amazon.com/images/I/41KnquYeHdL._AC_UL600_FMwebp_QL65_.jpg"
+    
+  
+        },
+    
+     {
+    
+   "name": "CHICKEN MANURE",
+    
+    "image": "https://m.media-amazon.com/images/I/71iUbOI8uxL._AC_UL600_FMwebp_QL65_.jpg"
+       
+        },
+    
+     {
+    
+  "name": "BIO MANURE",
+    
+   "image": "https://m.media-amazon.com/images/I/91GiUR+n9CL._AC_UL600_FMwebp_QL65_.jpg"
+    
+    }
+],
+
+"FruitSapling": [
+    
+    {
+    
+    "name": "APPLE SAPLINGS",
+    
+     "image": "https://m.media-amazon.com/images/I/71oE52JKlML._SY606_.jpg"
+    
+   
+        },
+    
+     {
+    
+   "name": "PEAR SAPLINGS",
+    
+    "image": "https://cdn.cdnparenting.com/articles/2021/06/14162458/1022014345.webp"
+       
+   },
+    
+     {
+    
+  "name": "ORANGE SAPLINGS",
+    
+   "image": "https://media.istockphoto.com/id/147308600/photo/little-orange-tree-isolated.jpg?s=612x612&w=0&k=20&c=Fd-uxOmxy1yMD67aP0AFBdE77xvdUa2z8Tc61fQjTC8="
+      
+    },
+    {
+    
+        "name": "CHERRY SAPLINGS",
+          
+         "image": "https://s3g2u3k4.rocketcdn.me/wp-content/uploads/sites/4/2018/06/cherry-tree.jpg"
+            
+          }
+],
+"FlowerSapling": [
+    
+    {
+    
+    "name": "JASMINE SAPLINGS",
+    
+     "image": "https://cdn.shopify.com/s/files/1/0047/9730/0847/products/nurserylive-kunda-downy-jasmine-plant-1_229x305.jpg?v=1634226036"
+    
+        },
+    
+     {
+    
+   "name": "ROSE SAPLINGS",
+    
+    "image": "https://cdn.shopify.com/s/files/1/0047/9730/0847/products/nurserylive-rose-baby-pink-plant-1_229x305.jpg?v=1634227427"
+       
+   },
+    
+     {
+    
+  "name": "HIBISCUS SAPLINGS",
+    
+   "image": "https://cdn.shopify.com/s/files/1/0047/9730/0847/products/nurserylive-plants-hibiscus-gudhal-flower-yellow-plant-in-grower-round-black-pot-1-533969_229x305.jpg?v=1679750250"
+      
+    },
+    {
+    
+        "name": "IXORA SAPLINGS",
+          
+         "image": "https://cdn.shopify.com/s/files/1/0047/9730/0847/products/nurserylive-ixora-mini-dwarf-white-plant-1-438340_229x305.jpg?v=1679750349"
+            
+    }
+],
+"GardeningTools": [
+    
+    {
+    
+    "name": "GRASS TRIMMER",
+    
+     "image": "https://m.media-amazon.com/images/I/61pDKIRXxGL._AC._SR360,460.jpg"
+    
+        },
+    
+     {
+    
+   "name": "FARMING GLOVES",
+    
+    "image": "https://m.media-amazon.com/images/I/51NKKv35JzL._AC._SR360,460.jpg"
+    
+     },
+    
+     {
+    
+  "name": "GARDENING WATER CAN",
+    
+   "image": "https://cdn.shopify.com/s/files/1/0047/9730/0847/products/nurserylive-can-no-1117-5-ltr-gardening-tool-1-319453_229x305.jpg?v=1679750049"
+    
+ },
+ {
+    
+    "name": "HOE TROWEL",
+      
+     "image": "https://cdn.shopify.com/s/files/1/0047/9730/0847/products/nurserylive-garden-hoe-trowel-with-handle-no-mmi-94-gardening-tool-1-508917_229x305.jpg?v=1679750046"
+      
+   }
+
+],
+"FruitSeeds":[
+    
+    {
+    
+    "name": "GUAVA SEEDS",
+    
+     "image": "https://agribegri.com/productimage/f77c9c819b6c617b250222d1eecc4f64-05-29-19-01-15-37.jpg"
+    
+        },
+    
+     {
+    
+   "name": "CUSTARD APPLE SEEDS",
+    
+    "image": "https://agribegri.com/productimage/f56b9d3eebcb196568197eb973a6a52a-08-11-19-14-05-13.jpg"
+    
+     },
+    
+     {
+    
+  "name": "PAPAYA SEEDS",
+    
+   "image": "https://blog-images-1.pharmeasy.in/2020/09/01173629/Papaya-Seeds-on-leaf.jpg"
+    
+ },
+ {
+    
+    "name": "LITCHI SEEDS",
+      
+     "image": "https://images.tv9telugu.com/wp-content/uploads/2022/07/apple-to-lychee.jpg?w=360"
+      
+   }
+
+],
+"Vegetable": [
+    
+    {
+    
+    "name": "ONION SEEDS",
+    
+     "image": "https://image.slidesharecdn.com/identificationofseeds-211226064204/75/identification-of-vegetable-seeds-3-2048.jpg?cb=1665667805"
+    
+        },
+    
+     {
+    
+   "name": "COW PEA SEEDS",
+    
+    "image": "https://image.slidesharecdn.com/identificationofseeds-211226064204/85/identification-of-vegetable-seeds-69-320.jpg?cb=1665667805"
+    
+     },
+    
+     {
+    
+  "name": "PEE SEEDS",
+    
+   "image": "https://image.slidesharecdn.com/identificationofseeds-211226064204/85/identification-of-vegetable-seeds-63-320.jpg?cb=1665667805"
+    
+ },
+ {
+    
+    "name": "SPINACH SEEDS",
+      
+     "image": "https://image.slidesharecdn.com/identificationofseeds-211226064204/85/identification-of-vegetable-seeds-18-320.jpg?cb=1665667805"
+      
+   },
+   {
+    
+    "name": "BEETROOT SEEDS",
+      
+     "image": "https://image.slidesharecdn.com/identificationofseeds-211226064204/75/identification-of-vegetable-seeds-15-2048.jpg?cb=1665667805"
+      
+   },
+   {
+    
+    "name": "SNAKE GOURD SEEDS",
+    
+     "image": "https://image.slidesharecdn.com/identificationofseeds-211226064204/85/identification-of-vegetable-seeds-54-320.jpg?cb=1665667805"
+    
+        }
+
+]
+
+
+
+}
