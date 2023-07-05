@@ -1,0 +1,51 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: unset;
+
+}
+
+.carousel-captions {
+    display: flex;
+    flex-direction: column;
+    top: 2rem !important;
+    bottom: auto;
+    left: 3rem !important;
+    right: auto;
+    transform: translate(0, 0) !important;
+    color: black;
+    gap: 0.5rem;
+    position: absolute !important;
+    text-align: unset !important;
+
+}
+
+
+
+.carousel-control-prev-icon {
+    background-color: black;
+    border-radius: 30px;
+}
+
+.carousel-control-next-icon {
+    background-color: black;
+    border-radius: 30px;
+}
+
+.bt {
+    /* width: fit-content; */
+    left: 2rem;
+    background-color: #002C5F;
+    color: white;
+    border-radius: 20px;
+    width: 150.47px;
+}
+
+.carousel-control-prev {
+    left: -2rem !important;
+}
+
+.carousel-control-next {
+    right: -2rem !important;
+}

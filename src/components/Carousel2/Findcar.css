@@ -1,0 +1,36 @@
+.carousel-indicators {
+    visibility: hidden;
+}
+
+.carousel-caption {
+    position: relative;
+    left: 0;
+    top: 0;
+    color: black;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+}
+
+.carousel-control-prev-icon {
+    background-image: url(/public/arrow.png);
+    background-color: unset;
+    /* position: relative; */
+    /* left: -142px; */
+}
+
+.carousel-control-next-icon {
+    background-image: url(/public/forward.png);
+    background-color: unset;
+    right: 100px;
+}
+
+.carousel-control-next {
+    opacity: unset
+}
+
+.carousel-control-prev {
+    opacity: unset
+}

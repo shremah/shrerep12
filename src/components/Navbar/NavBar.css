@@ -1,0 +1,55 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 6px 20px;
+    box-shadow: 2px 2px 2px 0 rgba(69, 64, 64, 0.2);
+
+}
+
+.navbar-logo img {
+    height: 30px;
+    margin-left: 2rem;
+}
+
+.navbar-items {
+    display: flex;
+    gap: 1rem;
+    list-style: none;
+}
+
+.navbar-item {
+    font-family: 'ubuntu';
+    margin-right: 1rem;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.navbar-icons {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-right: 1rem;
+}
+
+.items {
+    display: flex;
+    gap: 30px;
+    list-style: none;
+
+
+}
+
+/* @media (max-width: 700px) {
+    .navbar {
+        flex-direction: column;
+        align-items: flex-start;
+    } */
+
+/* .navbar-links {
+        margin-top: 1rem;
+    }
+
+    .nav-link {
+        margin: 0.5rem 0;
+    } */

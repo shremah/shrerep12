@@ -1,0 +1,84 @@
+.card-container {
+    display: flex;
+    width: 100%;
+    margin-bottom: 10px;
+    flex-wrap: wrap;
+
+}
+
+.card {
+    border: 1px solid #ccc;
+    border-radius: unset;
+    overflow: hidden;
+    display: flex;
+    position: relative;
+    width: 33.33%;
+
+}
+
+.card-image {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    position: relative;
+}
+
+
+
+.card-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.card-description {
+    position: absolute;
+    color: #ffffff;
+    top: 10px;
+    left: 10px;
+    font-family: 'ubuntu';
+    font-weight: 700;
+    font-size: 27.23px;
+}
+
+.card-buttons {
+    display: flex;
+}
+
+.card-button {
+    margin: 0 0.5rem;
+    padding: 0.5rem 1rem;
+    background-color: #ffffff;
+
+    cursor: pointer;
+}
+
+.card-button:hover {
+    background-color: #e0e0e0;
+}
+
+.btns {
+    display: flex;
+    position: absolute;
+    top: 9rem;
+    left: 1rem;
+    /* row-gap: normal; */
+    gap: 1rem;
+}
+
+.bt1 {
+    border: none;
+    padding: 10px 10px;
+    font-family: "ubuntu";
+    font-weight: 400;
+    font-size: 11.46px;
+}
+
+.bt2 {
+    background-color: transparent;
+    border: 2px solid rgb(248, 230, 230);
+    color: #ffffff;
+    font-family: "ubuntu";
+    font-weight: 400;
+    font-size: 11.46px;
+
+}

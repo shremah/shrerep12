@@ -1,0 +1,37 @@
+p {
+    /* font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: -0.08971735835075378px;
+    text-align: left; */
+}
+
+.cards {
+    gap: 2rem;
+}
+
+.caption {
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+    /* width: 70%; */
+
+
+}
+
+.matter {
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    color: #666666;
+}
+
+.cardcont {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem 0rem 2rem 0rem;
+    gap: 1rem;
+}

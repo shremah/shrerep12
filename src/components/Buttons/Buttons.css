@@ -1,0 +1,19 @@
+.bts {
+    height: 90px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+}
+
+.butt {
+    padding: 10px 50px;
+    border: none;
+    background-color: #002C5F;
+    color: white;
+    font-family: "Ubuntu";
+    font-weight: 400;
+    font-size: 13.46px;
+    text-align: center;
+}

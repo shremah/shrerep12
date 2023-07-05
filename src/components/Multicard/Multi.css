@@ -1,0 +1,29 @@
+.multi-content-carousel {
+    position: relative;
+    margin: 28px 12px 28px 7px;
+}
+
+.carousel-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.carousel-controls {
+    top: 20px;
+    position: absolute;
+    gap: 72rem;
+    display: flex;
+}
+
+.content img {
+    height: 200px;
+    width: 250px;
+}
+
+.prev-button,
+.next-button {
+    height: 30px;
+    margin-top: 25px;
+    border: none;
+    background: transparent;
+}

@@ -1,0 +1,28 @@
+.bancont {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* flex-direction: column; */
+    width: 100%;
+    height: 176px;
+    background-color: #E4DCD3;
+
+}
+
+.para {
+    display: flex;
+    flex-direction: column;
+}
+
+.banbtn {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}
+
+.btsty {
+    background: #002C5F;
+    color: white;
+    padding: 2px 25px;
+    border: none;
+}
